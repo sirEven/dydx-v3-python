@@ -12,7 +12,7 @@ REQUIREMENTS = [
     'mpmath>=1.3.0',
     'requests>=2.31.0',
     'six>=1.16.0',
-    'sympy>=1.12.0',
+    'sympy>=1.13.2',
     'web3>=6.5.0',
 ]
 
